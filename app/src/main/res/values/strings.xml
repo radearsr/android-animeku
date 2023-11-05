@@ -1,0 +1,199 @@
+<resources>
+    <string name="app_name">AnimeKu</string>
+    <string name="anime_title">Title Anime</string>
+    <string name="anime_rating">Rating 8.0</string>
+    <string name="anime_status">Ongoing</string>
+    <string name="anime_release">13 Oktober 2023</string>
+    <string name="text_genre">Genre</string>
+    <string name="text_episode">Episode</string>kt
+    <string name="text_rating">Rating</string>
+    <string name="text_status">Status</string>
+    <string name="text_release_date">Release Date</string>
+    <string name="text_studios">Studios</string>
+    <string name="text_synopsis">Synopsis</string>
+    <string name="poster_anime">Poster Anime</string>
+    <string name="text_my_name">Surya Rama</string>
+    <string name="text_my_email">barianbarbar99@gmail.com</string>
+    <string name="profile">Profile</string>
+    <string name="icon_back">Icon Back</string>
+    <string name="detail_anime">Detail Anime</string>
+    <string name="about">About</string>
+    <string name="share_detail_anime">Share Detail Anime</string>
+
+    <style name="Rounded">
+        <item name="cornerSize">2%</item>
+    </style>
+
+    <style name="Circle">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <string-array name="data_anime_title">
+        <item>Sword Art Online</item>
+        <item>Spy x Family</item>
+        <item>Kimetsu no Yaiba</item>
+        <item>Jujutsu Kaisen</item>
+        <item>Attack on Titan</item>
+        <item>Sousou no Frieren</item>
+        <item>Death Note</item>
+        <item>Steins;Gate</item>
+        <item>Mirai Nikki</item>
+        <item>Another</item>
+        <item>Kimi Zero</item>
+        <item>Tonikaku Kawaii</item>
+    </string-array>
+    <string-array name="data_anime_poster">
+        <item>https://cdn.myanimelist.net/images/anime/11/39717.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1441/122795.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1286/99889.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1171/109222.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/10/47347.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1015/138006.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1079/138100.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1935/127974.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/13/33465.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/4/75509.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1594/139137.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1613/108722.jpg</item>
+    </string-array>
+    <string-array name="data_anime_status">
+        <item>Completed</item>
+        <item>Completed</item>
+        <item>Completed</item>
+        <item>Completed</item>
+        <item>Completed</item>
+        <item>Ongoing</item>
+        <item>Completed</item>
+        <item>Completed</item>
+        <item>Completed</item>
+        <item>Completed</item>
+        <item>Ongoing</item>
+        <item>Completed</item>
+    </string-array>
+    <string-array name="data_anime_release">
+        <item>8 Juli 2012</item>
+        <item>9 April 2022</item>
+        <item>6 April 2019</item>
+        <item>3 Oktober 2020</item>
+        <item>7 April 2013</item>
+        <item>29 September 2023</item>
+        <item>4 Oktober 2006</item>
+        <item>6 April 2011</item>
+        <item>9 Oktober 2011</item>
+        <item>10 Januari 2012</item>
+        <item>6 Oktober 2023</item>
+        <item>3 Oktober 2020</item>
+    </string-array>
+    <string-array name="data_anime_rating">
+        <item>7.20</item>
+        <item>8.58</item>
+        <item>8.49</item>
+        <item>8.63</item>
+        <item>8.54</item>
+        <item>8.94</item>
+        <item>8.62</item>
+        <item>9.07</item>
+        <item>7.41</item>
+        <item>7.48</item>
+        <item>6.74</item>
+        <item>7.88</item>
+    </string-array>
+    <string-array name="data_anime_genres">
+        <item>Action, Adventure, Fantasy, Romance</item>
+        <item>Action, Comedy</item>
+        <item>Action, Historical, Fantasy</item>
+        <item>Action, School, Fantasy</item>
+        <item>Action, Military, Survival, Drama</item>
+        <item>Adventure, Drama, Fantasy</item>
+        <item>Supernatural, Detective, Psychological</item>
+        <item>Drama, Sci-Fi, Psychological, Time Travel</item>
+        <item>Action, Supernatural, High Stakes Game, Psychological, Survival</item>
+        <item> Horror, Mystery, Supernatural, School</item>
+        <item>Romance, School</item>
+        <item>Comedy, Romance, Shounen</item>
+    </string-array>
+    <string-array name="data_anime_episode">
+        <item>25</item>
+        <item>12</item>
+        <item>26</item>
+        <item>24</item>
+        <item>25</item>
+        <item>28</item>
+        <item>37</item>
+        <item>24</item>
+        <item>26</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="data_anime_studios">
+        <item> A-1 Pictures</item>
+        <item> Wit Studio, CloverWorks</item>
+        <item>Ufotable</item>
+        <item>MAPPA</item>
+        <item>Wit Studio</item>
+        <item>Madhouse</item>
+        <item>Madhouse</item>
+        <item>White Fox</item>
+        <item>Asread</item>
+        <item>P.A. Works</item>
+        <item>ENGI</item>
+        <item>Seven Arcs</item>
+    </string-array>
+    <string-array name="data_anime_synopsis">
+        <item>Sejak peluncuran NerveGear yang inovatif, gamer dari seluruh dunia telah diberi kesempatan untuk merasakan realitas virtual yang benar-benar mendalam. Sword Art Online (SAO), salah satu game terbaru di konsol, menawarkan pintu gerbang ke dunia Aincrad yang menakjubkan, lanskap abad pertengahan yang hidup di mana pengguna dapat melakukan apa pun dalam batas imajinasi. Dengan dirilisnya sensasi mendunia ini, bermain game menjadi lebih nyata.\n\n
+Namun, fantasi indah itu dengan cepat menjadi mimpi buruk yang brutal ketika pencipta SAO menjebak ribuan pemain di dalam permainan. Fungsi "log-out" telah dihapus, dengan satu-satunya metode melarikan diri yang melibatkan mengalahkan semua seratus level Aincrad yang semakin sulit. Menambah perjuangan, setiap kematian dalam game menjadi permanen, mengakhiri hidup pemain di dunia nyata.\n\n
+Meskipun Kazuto "Kirito" Kirigaya cukup beruntung menjadi penguji beta untuk game tersebut, dia segera menyadari bahwa terlepas dari kelebihannya, dia tidak dapat mengatasi tantangan SAO sendirian. Bekerja sama dengan Asuna Yuuki dan pemain berbakat lainnya, Kirito berusaha menghadapi cobaan yang tampaknya tidak dapat diatasi secara langsung. Tapi dengan bos yang sulit dan ancaman sekte gelap yang menghambat kemajuannya, Kirito menemukan bahwa tugas seperti itu jauh lebih mudah diucapkan daripada dilakukan.
+\n\n[Ditulis oleh MAL Penulisan Ulang]
+        </item>
+        <item>Politisi yang korup, kaum nasionalis yang hiruk pikuk, dan kekuatan-kekuatan penghasut perang lainnya terus-menerus membahayakan lapisan tipis perdamaian antara negara-negara tetangga Ostania dan Westalis. Terlepas dari rencana mereka, mata-mata terkenal dan ahli penyamaran "Twilight" memenuhi misi berbahaya satu demi satu dengan harapan tidak ada anak yang harus mengalami kengerian perang.\n\n
+Di kota Berlint yang ramai di Ostania, Twilight memakai nama samaran "Loid Forger", seorang psikiater terkemuka. Namun, niat sebenarnya adalah untuk mengumpulkan informasi intelijen tentang politisi terkemuka Donovan Desmond, yang jarang muncul di depan umum di sekolah putranya: Akademi Eden yang bergengsi. Meminta bantuan pegawai balai kota yang belum menikah, Yor Briar, untuk bertindak sebagai istrinya dan mengadopsi Anya, anak yatim piatu berusia enam tahun yang penasaran, sebagai putrinya, Loid menjalankan rencana induknya. Dia akan mendaftarkan Anya di Akademi Eden, di mana Loid berharap dia akan berprestasi dan memberinya kesempatan untuk bertemu Donovan tanpa menimbulkan kecurigaan.\n\n
+Sayangnya bagi Loid, pria dengan talenta seperti itu pun kesulitan memerankan sosok ayah dan suami yang penyayang. Dan sama seperti Loid yang menyembunyikan identitas aslinya, Yor—yang merupakan pembunuh bawah tanah yang dikenal sebagai "Putri Berduri"—dan Anya—seorang esper yang bisa membaca pikiran orang—juga tidak berencana mengungkapkan rahasia mereka sendiri. Meskipun keluarga yang sempurna ini dibangun atas dasar penipuan, para Forger perlahan-lahan mulai memahami bahwa cinta yang mereka bagi satu sama lain mengalahkan segalanya.\n\n
+[Ditulis oleh MAL Penulisan Ulang]
+        </item>
+        <item>Sejak kematian ayahnya, beban menghidupi keluarga berada di pundak Tanjirou Kamado. Meski hidup miskin di pegunungan terpencil, keluarga Kamado dapat menikmati kehidupan yang relatif damai dan bahagia. Suatu hari, Tanjirou memutuskan untuk pergi ke desa setempat untuk mencari uang dengan menjual arang. Dalam perjalanan pulang, malam tiba, memaksa Tanjirou berlindung di rumah seorang pria asing, yang memperingatkannya tentang keberadaan setan pemakan daging yang mengintai di hutan pada malam hari.\n\n
+Ketika dia akhirnya tiba kembali ke rumah keesokan harinya, dia melihat pemandangan yang mengerikan—seluruh keluarganya telah dibantai. Parahnya lagi, satu-satunya yang selamat adalah adiknya Nezuko, yang telah berubah menjadi iblis haus darah. Dilanda amarah dan kebencian, Tanjirou bersumpah akan membalaskan dendam keluarganya dan tetap mendampingi satu-satunya saudaranya yang tersisa. Bersama kelompok misterius yang menamakan diri mereka Korps Pembunuh Iblis, Tanjirou akan melakukan apa pun untuk membunuh para iblis dan melindungi sisa-sisa kemanusiaan saudara perempuan tercintanya.\n\n
+[Ditulis oleh MAL Penulisan Ulang]
+        </item>
+        <item>Iseng terlibat dalam aktivitas paranormal tak berdasar dengan Klub Ilmu Gaib, siswa sekolah menengah Yuuji Itadori menghabiskan hari-harinya di ruang klub atau rumah sakit, di mana dia mengunjungi kakeknya yang terbaring di tempat tidur. Namun, gaya hidup santai ini segera berubah menjadi aneh ketika dia tanpa sadar menemukan benda terkutuk. Memicu serangkaian kejadian supernatural, Yuuji mendapati dirinya tiba-tiba dimasukkan ke dalam dunia Kutukan—makhluk mengerikan yang terbentuk dari kebencian dan kenegatifan manusia—setelah menelan benda tersebut, yang ternyata adalah jari milik iblis Sukuna Ryoumen, Raja Kutukan.\n\n
+Yuuji merasakan langsung ancaman yang ditimbulkan oleh Kutukan ini terhadap masyarakat saat dia menemukan kekuatan barunya. Diperkenalkan ke Sekolah Menengah Jujutsu Prefektur Tokyo, dia mulai menempuh jalan yang tidak bisa dia kembalikan lagi—jalan seorang penyihir Jujutsu.\n\n
+[Ditulis oleh MAL Penulisan Ulang]
+        </item>
+        <item>Berabad-abad yang lalu, umat manusia dibantai hingga hampir punah oleh makhluk humanoid mengerikan yang disebut Titan, memaksa manusia bersembunyi dalam ketakutan di balik tembok konsentris yang sangat besar. Apa yang membuat para raksasa ini benar-benar menakutkan adalah selera mereka terhadap daging manusia bukan lahir dari rasa lapar, melainkan karena kenikmatan. Untuk memastikan kelangsungan hidup mereka, sisa-sisa umat manusia mulai hidup dalam penghalang pertahanan, sehingga dalam seratus tahun tidak ada satupun titan yang bertemu. Namun, ketenangan yang rapuh itu segera hancur ketika Titan raksasa berhasil menembus tembok luar yang seharusnya tidak dapat ditembus, menghidupkan kembali perjuangan untuk bertahan hidup melawan kekejian pemakan manusia.\n\n
+Setelah menyaksikan kerugian pribadi yang mengerikan di tangan makhluk-makhluk yang menyerang, Eren Yeager mendedikasikan hidupnya untuk pemberantasan mereka dengan mendaftar ke Survey Corps, sebuah unit militer elit yang memerangi humanoid tanpa ampun di luar perlindungan tembok. Eren, saudara angkatnya Mikasa Ackerman, dan teman masa kecilnya Armin Arlert bergabung dalam perang brutal melawan para Titan dan berlomba untuk menemukan cara mengalahkan mereka sebelum tembok terakhir ditembus.\n\n
+[Ditulis oleh MAL Penulisan Ulang]
+        </item>
+        <item>Raja iblis telah dikalahkan, dan kelompok pahlawan yang menang kembali ke rumah sebelum bubar. Keempatnya—penyihir Frieren, pahlawan Himmel, pendeta Heiter, dan prajurit Eisen—mengenang perjalanan mereka selama satu dekade saat momen untuk saling mengucapkan selamat tinggal tiba. Namun berlalunya waktu berbeda bagi para elf, sehingga Frieren menyaksikan teman-temannya perlahan meninggal satu per satu.\n\n
+Sebelum kematiannya, Heiter berhasil memasukkan manusia magang muda bernama Fern ke Frieren. Didorong oleh hasrat elf untuk mengumpulkan segudang mantra sihir, pasangan ini memulai perjalanan tanpa tujuan, mengunjungi kembali tempat-tempat yang pernah dikunjungi para pahlawan dahulu kala. Sepanjang perjalanan mereka, Frieren perlahan-lahan menghadapi penyesalannya atas hilangnya kesempatan untuk menjalin ikatan yang lebih dalam dengan rekan-rekannya yang kini sudah meninggal.\n\n
+[Ditulis oleh MAL Penulisan Ulang]
+        </item>
+        <item>Pembunuhan brutal, pencurian kecil-kecilan, dan kekerasan yang tidak masuk akal mencemari dunia manusia. Sebaliknya, alam dewa kematian adalah sarang perjudian yang membosankan dan tidak berubah. Siswa Jepang berusia 17 tahun yang cerdik, Light Yagami, dan dewa kematian sadis Ryuk memiliki satu keyakinan: dunia mereka busuk.\n\n
+Untuk hiburannya sendiri, Ryuk menjatuhkan Death Note miliknya ke dunia manusia. Light tersandung padanya, menganggap aturan pertama konyol: manusia yang namanya tertulis di catatan ini akan mati. Namun, godaannya terlalu besar, dan Light bereksperimen dengan menulis nama penjahat, yang secara mengejutkan melakukan pembunuhan pertamanya.\n\n
+Sadar akan kekuatan mengerikan seperti dewa yang telah jatuh ke tangannya, Light—dengan nama samaran Kira—mengikuti rasa keadilannya yang jahat dengan tujuan akhir untuk membersihkan dunia dari semua pelaku kejahatan. Detektif dalang yang sangat teliti, L, sudah mengejar jejaknya, tetapi karena kecemerlangan Light menyaingi L, pengejaran besar-besaran untuk Kira berubah menjadi pertarungan kecerdasan yang intens yang hanya bisa berakhir ketika salah satu dari mereka mati.\n\n
+[Ditulis oleh MAL Penulisan Ulang]
+        </item>
+        <item>Ilmuwan eksentrik Rintarou Okabe memiliki rasa haus yang tiada habisnya akan eksplorasi ilmiah. Bersama temannya yang bodoh namun bermaksud baik, Mayuri Shiina, dan teman sekamarnya Itaru Hashida, Rintarou mendirikan Future Gadget Laboratory dengan harapan dapat menciptakan inovasi teknologi yang membingungkan jiwa manusia. Terlepas dari klaim kemegahannya, satu-satunya "gadget" penting yang diciptakan ketiganya adalah microwave yang memiliki kekuatan menakjubkan untuk mengubah pisang menjadi cairan hijau.\n\n
+Namun, ketika Rintarou memutuskan untuk menghadiri konferensi ahli saraf Kurisu Makise tentang perjalanan waktu, dia mengalami serangkaian kejadian aneh yang membuatnya percaya bahwa ada lebih banyak hal di gadget "Phone Microwave" daripada yang terlihat. Rupanya mampu mengirim pesan teks ke masa lalu menggunakan microwave, Rintarou mencoba-coba lebih jauh dengan "mesin waktu", yang menarik kemarahan dan perhatian organisasi misterius SERN.\n\n
+Karena penemuan baru tersebut, Rintarou dan teman-temannya berada dalam bahaya yang selalu ada. Saat ia berupaya mengurangi kerusakan yang disebabkan oleh penemuannya terhadap garis waktu, ia tidak hanya berjuang untuk menyelamatkan orang-orang yang dicintainya, tetapi juga melawan kewarasannya yang merendahkan martabat.\n\n
+[Ditulis oleh MAL Penulisan Ulang]
+        </item>
+        <item>Yukiteru Amano adalah siswa sekolah menengah pemalu yang secara teratur mencatat apa yang dia lakukan dalam kehidupan sehari-hari dengan menuliskan semua aktivitasnya di ponselnya—buku harian digital. Meskipun tidak memiliki teman di sekolah, Yukiteru sering terlihat berbicara dengan teman khayalannya Deus Ex Machina, dewa ruang dan waktu; dan pelayan Deus, Mur Mur.\n\n
+Suatu hari, Yukiteru bangun dan menemukan bahwa peristiwa-peristiwa tertentu pada hari itu ditampilkan terlebih dahulu di ponselnya. Meski awalnya menganggapnya sebagai suatu kebetulan, dia perlahan menyadari bahwa kejadian yang tertulis di ponselnya sebenarnya akan terjadi dalam waktu dekat. Setelah seharian memanfaatkan aset baru ini, Yukiteru mengetahui bahwa teman sekelasnya Yuno Gasai memiliki buku harian serupa.\n\n
+Saat keduanya bekerja sama untuk mengalahkan pengejar aneh dan kembali ke rumah masing-masing, Deus Ex Machina menjelaskan bahwa mereka—bersama 10 kontestan lainnya—telah ditarik ke dalam permainan bertahan hidup yang pemenangnya akan menjadi penerus dewa. Karena tidak ada pilihan lain, Yukiteru dan Yuno harus menggunakan ponsel mereka—sekarang disebut "Buku Harian Masa Depan"—untuk bertahan dalam pertempuran royale yang tak kenal ampun ini.\n\n
+[Ditulis oleh MAL Penulisan Ulang]
+        </item>
+        <item>Di kelas 3-3 SMP Yomiyama Utara, siswa pindahan Kouichi Sakakibara kembali setelah mengambil cuti sakit di bulan pertama sekolah. Di antara teman-teman sekelas barunya, entah kenapa dia tertarik pada Mei Misaki—seorang gadis pendiam dengan penutup mata yang dia temui di rumah sakit selama ketidakhadirannya. Tapi tidak ada teman sekelasnya yang mengakui keberadaannya; mereka memperingatkannya untuk tidak mengenalkan dirinya pada hal-hal yang tidak ada. Bertentangan dengan kata-kata peringatan mereka, Kouichi berteman dengan Mei—segera mengetahui kebenaran mengerikan di balik kekhawatiran teman-temannya.\n\n
+Rumor yang tidak menyenangkan berkisar pada mantan siswa kelas 3-3. Namun, tidak ada yang akan membagikan detail lengkap peristiwa suram tersebut kepada Kouichi. Asyik dengan kutukan yang menimpa kelasnya, Kouichi berusaha mengetahui hubungannya dengan teman barunya. Ketika serangkaian tragedi muncul di sekitar mereka, kini Kouichi, Mei, dan teman-teman sekelas mereka harus mengungkap misteri yang menakutkan itu—tetapi hal itu harus dibayar mahal.\n\n
+[Ditulis oleh MAL Penulisan Ulang]
+        </item>
+        <item>Ryuuto Kashima adalah siswa sekolah menengah yang suram. Sebagai bagian dari permainan hukuman, dia dipaksa untuk mengaku kepada Runa Shirakawa, seorang gadis dari kasta tertinggi sekolah yang dikagumi semua orang.\n\n
+Mereka akhirnya berkencan karena alasan yang tidak terduga, "Err, aku bebas sekarang jadi..." tapi Ryuuto akhirnya mengikuti dan menguping saat Runa mengaku oleh seorang anggota klub sepak bola yang tampan, dan Runa membawa Ryuuto, yang dia punya. baru saja mulai berkencan, ke kamarnya sendiri sebagai hal yang biasa.\n\n
+Mereka mempunyai teman dan cara bersenang-senang yang berbeda, dan mereka berbeda hampir dalam segala hal. Meskipun demikian, mereka mulai berhubungan satu sama lain setelah dikejutkan oleh perbedaan mereka setiap hari dan menerimanya.\n\n
+(Sumber: Berita MAL)
+        </item>
+        <item>Nasa Yuzaki bertekad untuk meninggalkan namanya di buku sejarah. Mendapat peringkat pertama dalam ujian tiruan nasional dan mengincar sekolah menengah atas yang unggul, dia yakin bahwa seluruh hidupnya telah dipetakan. Namun, takdir adalah simpanan yang berubah-ubah. Dalam perjalanan pulang pada suatu malam bersalju, mata NASA tertuju pada keindahan tiada tara di seberang jalan. Karena tersihir, NASA mencoba mendekatinya—hanya untuk dibutakan oleh truk yang melaju.\n\n
+Syukurlah, nyawanya terselamatkan karena tindakan cepat gadis itu. Berdarah di samping ambulans, dia melihat gadis itu berjalan pergi di bawah sinar bulan—mengingatkan pada Putri Kaguya yang berangkat ke bulan. Menolak untuk membiarkan pertemuan kebetulan ini berakhir, dia memaksa tubuhnya yang lumpuh untuk mengejarnya dan mengajaknya kencan. Terkejut dengan kebodohan dan tekadnya yang murni, gadis itu menerima pengakuannya dengan satu syarat: mereka hanya bisa bersama jika dia menikahinya!\n\n
+[Ditulis oleh MAL Penulisan Ulang]
+        </item>
+    </string-array>
+</resources>
